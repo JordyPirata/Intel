@@ -150,7 +150,13 @@
     border-radius: 5px;
     margin-top: 19px;
 }
-
+.thumbnail2 img {
+    width: 350px;
+    border: 2px solid rgb(1, 43, 73);
+    border-radius: 5px;
+    margin-top: 19px;
+    margin-right: 30px;
+}
 .center {
     text-align: center;
 }
